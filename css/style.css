@@ -734,7 +734,8 @@ color: #f04c74;
 	width: 71.92982456140351%;	
 }
 
-.fun-facts span{
+.fun-facts span,
+.fun-facts i{
 	width:120px;
 	height:120px;
 	border:2px #ef6a8a solid;
@@ -751,7 +752,8 @@ color: #f04c74;
     transition: 0.4s;	
 }
 
-.fun-facts span:hover{
+.fun-facts span:hover,
+.fun-facts i:hover{
 	background:	#ef6a8a;
 	color:#FFF;
 	cursor:pointer;	
